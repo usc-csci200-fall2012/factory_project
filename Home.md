@@ -30,25 +30,31 @@ There will be six deliverables (due dates below):
     <tr>
         <th>Due Date</th>
         <th>Deliverable</th>
+        <th>Notes</th>
     </tr>
     <tr>
         <td>10/28</td>
         <td>Factory Design</td>
+        <td><a href="Factory-Design-Course-Notes">CS 200</a></td>
     </tr>
     <tr>
         <td>11/04</td>
         <td>Factory Skeleton v. 0</td>
+        <td></td>
     </tr>
     <tr>
         <td>11/18</td>
         <td>Factory v. 1</td>
+        <td></td>
     </tr>
     <tr>
         <td>12/02</td>
         <td>Factory v. 2</td>
+        <td></td>
     </tr>
     <tr>
         <td>12/3, 12/5</td>
         <td>Final Persentation</td>
+        <td></td>
     </tr>
 </table>
