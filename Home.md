@@ -1,4 +1,4 @@
-# The Factory Project
+## The Factory Project
 The two classes, csci201 and csci200, will cooperate to design and build a manufacturing assembly cell. The csci201 team will do the backend, while the csci200 will do the GUI and animation. The teams will cooperate in the design of the API between the backend and frontend.
 
 ## The Operational Concepts Description
