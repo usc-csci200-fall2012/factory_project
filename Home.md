@@ -40,7 +40,7 @@ There will be six deliverables (due dates below):
     <tr>
         <td>11/04</td>
         <td>Factory Skeleton v. 0</td>
-        <td></td>
+        <td><a href="wiki/Factory-Skeleton-v.0-Course-Notes">CS 200</a></td>
     </tr>
     <tr>
         <td>11/18</td>
