@@ -11,7 +11,7 @@ Please see [The Kitting Cell](wiki/The-Kitting-Cell)
 You are to use the eXtreme programming methodology. Details of your meetings, schedule and tasks will be maintained online, with specific details to be determined.
 
 ## Git
-Git is a source code repository for managing your code. Rather than emailing code around, you will store it, check it out, and update it. More about Git will be forthcoming.
+Git is a distributed version control system for managing your code. Check the [Git Resource Wiki Page](wiki/Git-Resource) for more information on [Git](http://git-scm.com/).
 
 ## Deliverables
 There will be six deliverables (due dates below):
