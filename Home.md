@@ -2,10 +2,10 @@
 The two classes, csci201 and csci200, will cooperate to design and build a manufacturing assembly cell. The csci201 team will do the backend, while the csci200 will do the GUI and animation. The teams will cooperate in the design of the API between the backend and frontend.
 
 ## The Operational Concepts Description
-Please see [The Operation Concepts Description](Operational-Concepts-Description)
+Please see [The Operation Concepts Description](wiki/Operational-Concepts-Description)
 
 ##Requirements
-Please see [The Kitting Cell](The-Kitting-Cell)
+Please see [The Kitting Cell](wiki/The-Kitting-Cell)
 
 ## eXtreme Programming
 You are to use the eXtreme programming methodology. Details of your meetings, schedule and tasks will be maintained online, with specific details to be determined.
@@ -35,7 +35,7 @@ There will be six deliverables (due dates below):
     <tr>
         <td>10/28</td>
         <td>Factory Design</td>
-        <td><a href="Factory-Design-Course-Notes">CS 200</a></td>
+        <td><a href="wiki/Factory-Design-Course-Notes">CS 200</a></td>
     </tr>
     <tr>
         <td>11/04</td>
