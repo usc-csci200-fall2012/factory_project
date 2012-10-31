@@ -43,3 +43,8 @@ As with almost all technologies, there are two main ways to learn things: a form
 ### Markdown
 + [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
 + [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
+
+
+## Using Git with IDEs
++ **Eclipse**: use a plugin called egit. Here are some resources:
+    + [Git with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html) by Lars Vogel
