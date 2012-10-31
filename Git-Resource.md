@@ -5,7 +5,7 @@ In class, you have been introduced to [git](http://git-scm.com/), [GitHub](https
 
 ## A Basic Introduction to Git
 + [CS 200/201 - Presentation](http://www-scf.usc.edu/~alghanmi/csci200/git.pdf)
-+ [CS 102 - Showing Your Code to The World](http://bit.ly/git_intro_by_alghanmi)
++ [CS 102 - Showing Your Code to The World](http://bit.ly/git_intro_by_alghanmi) (with detailed aludra setup instructions)
 
 ## Learning Git
 As with almost all technologies, there are two main ways to learn things: a formal introduction (takes more time) or a quick tutorial to get you going fast. Depending on what you prefer, here are some good places to start:
