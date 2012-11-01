@@ -17,4 +17,15 @@ For grading purposes, each team must add the following [milestones](https://gith
 These will be used by graders to post grading issues related to each submission.
 
 ### Submission Tagging
-+ Adding Tags to [git commit](http://gitready.com/beginner/2009/02/03/tagging.html)
+In order to make retrieving your official submissions easier, you will tag your deliverables with the following names:
+
++ `design`
++ `v0.0`
++ `v1.0`
++ `v2.0`
+
+Feel free to add more tags to mark specific milestones in your project, e.g. `v0.3` or `v1.6.35`. However, the above mentioned tags are project-specific tags that you **must** have.
+
+Tag signing and annotation is optional and **do not** use lightweight tags.
+
+A very clear discussion on tagging could be found in the [Pro Git](http://git-scm.com/book) book [Chapter 2.6](http://git-scm.com/book/en/Git-Basics-Tagging)
