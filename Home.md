@@ -58,3 +58,5 @@ There will be six deliverables (due dates below):
         <td></td>
     </tr>
 </table>
+
+As issues come up after deliverables, I will be updating a [submission notes](wiki/Submission-Notes) page with things teams should pay attention to before submitting their deliverables.
