@@ -29,6 +29,7 @@ As with almost all technologies, there are two main ways to learn things: a form
 ### Git Cheatsheets
 + [Tower Cheatsheet](http://www.git-tower.com/files/cheatsheet/Git_Cheat_Sheet_grey.pdf)
 + [Cheatsheet by Roger Dudler](http://rogerdudler.github.com/git-guide/files/git_cheat_sheet.pdf)
++ [git ready](http://gitready.com/) is a good place to find answers to very common questions
 
 ## GitHub Resources
 + [Git Setup](https://help.github.com/articles/set-up-git)
