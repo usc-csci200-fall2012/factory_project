@@ -1,0 +1,1 @@
+Since many of us are new to git and GitHub, a number of issues come up during the submission process. I will be presenting these issues in this page. Most of these points require actions from most but not necessarily all teams. Regardless, you need to make sure your repository satisfies any requirement listed here.
