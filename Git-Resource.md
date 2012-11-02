@@ -47,5 +47,7 @@ As with almost all technologies, there are two main ways to learn things: a form
 
 
 ## Using Git with IDEs
-+ **Eclipse**: use a plugin called egit. Here are some resources:
++ **Eclipse**: uses a plugin called egit. Here are some resources:
     + [Git with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html) by Lars Vogel
++ **NetBeans**: has git built-in. Here is a guide on how to use git with NetBeans:
+    + [NetBeans - Git User Guide](http://netbeans.org/kb/docs/ide/git.html)
