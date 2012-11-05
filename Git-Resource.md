@@ -46,6 +46,13 @@ As with almost all technologies, there are two main ways to learn things: a form
 + [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
 
 
+## Special Topics
+## git tag
+Tags are alphanumeric names given to specific commits. Essentially, bookmarking that commit for easy identification and use. The [submission notes](wiki/Submission-Notes) discuss the use of tags in your project-based submissions. Here are some references discussing tags:
+
++ [`git tag`](http://gitref.org/branching/#tag) from [Git Reference](http://gitref.org/)
++ Chapter [2.6 Git Basics - Tagging](http://git-scm.com/book/en/Git-Basics-Tagging) from the [Pro Git](http://git-scm.com/book) book.
+
 ## Using Git with IDEs
 + **Eclipse**: uses a plugin called egit. Here are some resources:
     + [Git with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html) by Lars Vogel
