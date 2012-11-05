@@ -37,17 +37,17 @@ As with almost all technologies, there are two main ways to learn things: a form
 + [GitHub Stars & Notifications](https://github.com/blog/1204-notifications-stars)
 + [GitHub Email Notifications](https://github.com/blog/1214-notification-email-improvements)
 
-### git ignore files
-+ [Sample Git Ignore File](https://github.com/usc-csci200-fall2012/factory_project/blob/master/sample.gitignore)
-+ [The gitignore repository](https://github.com/github/gitignore)
-
 ### Markdown
 + [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
 + [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
 
 
-## Special Topics
-## git tag
+## Special Git Topics
+### git ignore files
++ [Sample Git Ignore File](https://github.com/usc-csci200-fall2012/factory_project/blob/master/sample.gitignore)
++ [The gitignore repository](https://github.com/github/gitignore)
+
+### git tag
 Tags are alphanumeric names given to specific commits. Essentially, bookmarking that commit for easy identification and use. The [submission notes](wiki/Submission-Notes) discuss the use of tags in your project-based submissions. Here are some references discussing tags:
 
 + [`git tag`](http://gitref.org/branching/#tag) from [Git Reference](http://gitref.org/)
