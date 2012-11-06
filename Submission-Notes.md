@@ -35,3 +35,10 @@ Feel free to add more tags to mark specific milestones in your project, e.g. `v0
 Tag signing and annotation is optional and **do not** use lightweight tags.
 
 A very clear discussion on tagging could be found in the [Pro Git](http://git-scm.com/book) book [Chapter 2.6](http://git-scm.com/book/en/Git-Basics-Tagging)
+
+***
+
+### Grading Environment
+Submissions will be graded on [`aludra.usc.edu`](http://www.usc.edu/its/unix/servers/scf.html) using [Java 1.6](http://www-scf.usc.edu/~csci200/java6_setup.html) using the terminal.
+
+***
