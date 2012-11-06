@@ -39,6 +39,6 @@ A very clear discussion on tagging could be found in the [Pro Git](http://git-sc
 ***
 
 ### Grading Environment
-Submissions will be graded on [`aludra.usc.edu`](http://www.usc.edu/its/unix/servers/scf.html) using [Java 1.6](http://www-scf.usc.edu/~csci200/java6_setup.html) using the terminal.
+Submissions will be graded on [`aludra.usc.edu`](http://www.usc.edu/its/unix/servers/scf.html) using [Java 1.6](http://www-scf.usc.edu/~csci200/java6_setup.html) via the terminal.
 
 ***
