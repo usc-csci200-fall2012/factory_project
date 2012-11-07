@@ -42,3 +42,16 @@ A very clear discussion on tagging could be found in the [Pro Git](http://git-sc
 Submissions will be graded on [`aludra.usc.edu`](http://www.usc.edu/its/unix/servers/scf.html) using [Java 1.6](http://www-scf.usc.edu/~csci200/java6_setup.html) via the terminal.
 
 ***
+
+### Issue Tracker
+Teams are to use the issue tracker to keep track of all their:
+  + Bugs
+  + Enhancements
+  + Requested Features
+  + Tasks, etc.
+
+Each closed issue must have:
+  + The SHA of the commit resolving or partially resolving the issue
+  + The number of this issue mentioned in the commit message closing it using the [proper syntax](https://github.com/blog/831-issues-2-0-the-next-generation).
+
+Teams not using the issue tracker effectively will get panelized.
