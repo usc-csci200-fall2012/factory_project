@@ -53,6 +53,12 @@ Tags are alphanumeric names given to specific commits. Essentially, bookmarking 
 + [`git tag`](http://gitref.org/branching/#tag) from [Git Reference](http://gitref.org/)
 + Chapter [2.6 Git Basics - Tagging](http://git-scm.com/book/en/Git-Basics-Tagging) from the [Pro Git](http://git-scm.com/book) book.
 
+### git log
+The `git log` command is a very powerful command that helps you inspect the history of a repository. Here are some commonly used `git log` variations:
+
++ [Git Reference - Inspection & Comparison](http://gitref.org/inspect/)
++ [Bend logs to your will](http://gitready.com/advanced/2009/01/20/bend-logs-to-your-will.html)
+
 ## Using Git with IDEs
 + **Eclipse**: uses a plugin called egit. Here are some resources:
     + [Git with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html) by Lars Vogel
