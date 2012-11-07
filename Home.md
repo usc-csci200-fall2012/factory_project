@@ -59,4 +59,12 @@ There will be six deliverables (due dates below):
     </tr>
 </table>
 
-As issues come up after deliverables, I will be updating a [submission notes](wiki/Submission-Notes) page with things teams should pay attention to before submitting their deliverables.
+## Submission & Grading Notes
+As issues come up after deliverables, the [submission notes](wiki/Submission-Notes) page will be updated. Teams are to periodically check this page and review it before submitting their deliverables.
+
+### CS 200 Grading Notes
+CS 200 students will receive their grading for all deliverables in the form of GitHub issues. As a team, your are to fix these issues and close them. You are to mention the issue number in the commit message fixing the problem and the SHA of that commit in the issue before closing it. This way, we can cross reference the history of it.
+
+Any discussion on an issue with your TAs, graders or professor should be done through comments on the issue tracker **not via email**.
+ 
+If you would like to discuss a specific issues with your TAs (as in a re-grade), you must keep the issue open and not close it. Then, present this issue to the TAs during lab time and they will be able to assist you. Unlike homework assignments, there is no specific TA:Team mapping for the design document. Any TA will be able to help you.
