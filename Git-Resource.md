@@ -31,6 +31,13 @@ As with almost all technologies, there are two main ways to learn things: a form
 + [Cheatsheet by Roger Dudler](http://rogerdudler.github.com/git-guide/files/git_cheat_sheet.pdf)
 + [git ready](http://gitready.com/) is a good place to find answers to very common questions
 
+
+## Using Git with IDEs
++ **Eclipse**: uses a plugin called egit. Here are some resources:
+    + [Git with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html) by Lars Vogel
++ **NetBeans**: has git built-in. Here is a guide on how to use git with NetBeans:
+    + [NetBeans - Git User Guide](http://netbeans.org/kb/docs/ide/git.html)
+
 ## GitHub Resources
 + [Git Setup](https://help.github.com/articles/set-up-git)
 + [GitHub Help Pages](https://help.github.com/)
@@ -58,9 +65,3 @@ The `git log` command is a very powerful command that helps you inspect the hist
 
 + [Git Reference - Inspection & Comparison](http://gitref.org/inspect/)
 + [Bend logs to your will](http://gitready.com/advanced/2009/01/20/bend-logs-to-your-will.html)
-
-## Using Git with IDEs
-+ **Eclipse**: uses a plugin called egit. Here are some resources:
-    + [Git with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html) by Lars Vogel
-+ **NetBeans**: has git built-in. Here is a guide on how to use git with NetBeans:
-    + [NetBeans - Git User Guide](http://netbeans.org/kb/docs/ide/git.html)
