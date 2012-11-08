@@ -32,6 +32,9 @@ As with almost all technologies, there are two main ways to learn things: a form
 + [git ready](http://gitready.com/) is a good place to find answers to very common questions
 
 
+### Git Workflow
++ Article by [Abhijit Menon-Sen](http://toroid.org/ams/) on [git workflow in small teams](http://toroid.org/ams/git-central-repo-howto)
+
 ## Using Git with IDEs
 + **Eclipse**: uses a plugin called egit. Here are some resources:
     + [Git with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html) by Lars Vogel
