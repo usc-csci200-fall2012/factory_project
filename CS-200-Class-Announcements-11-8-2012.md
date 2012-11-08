@@ -14,4 +14,8 @@
    - https://github.com/usc-csci200-fall2012/factory_project/issues
    - https://github.com/usc-csci200-fall2012/factory_project/wiki/Submission-Notes
 
++ Doing something cool or interesting qualifies your team to get 0.25 points of extra credit toward the team score in the next deliverable. It is up to Rami to decide what is cool or not. Here are examples of how two teams got EC points:
+    - https://github.com/usc-csci200-fall2012/factory_project/pull/2
+    - https://github.com/usc-csci200-fall2012/factory_project/issues/6
+
 + HW3 AI Player - a number of students got deductions for not having AI Player extend Player. We agreed to revert that deduction. It is still bad design not to have done that. In order to get your points back, please come and see _any_ TA during lab time and they will fix it for you. No fixes via email.
