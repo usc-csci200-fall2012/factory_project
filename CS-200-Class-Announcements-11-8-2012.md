@@ -1,4 +1,4 @@
-+ On the week of 11/12/2012 (next week), teams will be presenting their `v1` progress during class time. Details are in the [CS 200 Team Progress Reports](wiki/CS-200-Team-Progress-Reports) wiki page
++ On the week of 11/12/2012 (next week), teams will be presenting their `v1` progress during class time. Details are in the [CS 200 Team Progress Reports](CS-200-Team-Progress-Reports) wiki page
 
 + Since the TAs will be enjoying your presentations next week, they will not be coming to _next week's_ lab sessions. The labs will be available for you to use for team meetings, but the TAs will not be there. **Labs are running as usual this week**.
 
