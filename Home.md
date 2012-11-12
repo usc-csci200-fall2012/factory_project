@@ -45,7 +45,7 @@ There will be six deliverables (due dates below):
     <tr>
         <td>11/18</td>
         <td>Factory v. 1</td>
-        <td><a href="wiki/Factory-v.1-Course-Notes">CS 200</a></td>
+        <td><a href="wiki/CS-200-Factory-v1-Grading-Guidelines">CS 200</a></td>
     </tr>
     <tr>
         <td>12/02</td>
