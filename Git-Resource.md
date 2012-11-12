@@ -34,6 +34,7 @@ As with almost all technologies, there are two main ways to learn things: a form
 
 ### Git Workflow
 + Article by [Abhijit Menon-Sen](http://toroid.org/ams/) on [git workflow in small teams](http://toroid.org/ams/git-central-repo-howto)
++ [Git Commit Policies](http://osteele.com/posts/2008/05/commit-policies) by [Oliver Steele](http://osteele.com/)
 
 ## Using Git with IDEs
 + **Eclipse**: uses a plugin called egit. Here are some resources:
