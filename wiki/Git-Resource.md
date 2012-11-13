@@ -59,7 +59,7 @@ As with almost all technologies, there are two main ways to learn things: a form
 + [The gitignore repository](https://github.com/github/gitignore)
 
 ### git tag
-Tags are alphanumeric names given to specific commits. Essentially, bookmarking that commit for easy identification and use. The [submission notes](wiki/Submission-Notes) discuss the use of tags in your project-based submissions. Here are some references discussing tags:
+Tags are alphanumeric names given to specific commits. Essentially, bookmarking that commit for easy identification and use. The [submission notes](Submission-Notes.md) discuss the use of tags in your project-based submissions. Here are some references discussing tags:
 
 + [`git tag`](http://gitref.org/branching/#tag) from [Git Reference](http://gitref.org/)
 + Chapter [2.6 Git Basics - Tagging](http://git-scm.com/book/en/Git-Basics-Tagging) from the [Pro Git](http://git-scm.com/book) book.
