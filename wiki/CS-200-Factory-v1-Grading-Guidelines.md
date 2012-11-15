@@ -33,12 +33,13 @@ They must also have a server application that contains the factory state. It wil
 The team points are divided as follows:
   + 2 points: parts manager
   + 2 points: kit manager
-  + 5 points: factory production manager
+  + 3 points: factory production manager
   + 2 points: gantry robot manager
   + 2 points: lane manager
   + 2 points: kit assembly manager
   + 2 points: design document
   + 3 points: server application
+  + 2 points: factory graphical update for animation
 
 I would suggest grading the entire factory project first. This will give you an idea as to whether they completed all the requirements, or not. If a team does not get all the manager and server points (18 total) as a team, then all the students cannot get 100% individual points.
 
