@@ -72,7 +72,7 @@ The `git log` command is a very powerful command that helps you inspect the hist
 
 
 ## FAQs
-### Why My Account Is Not Linked/Showing in Commits and/or Graphs
+### Why My Account Is Not Linked/Showing in Commits and/or Graphs?
 In order to configure git properly, you need to specify not only your name, but the email address you registered with in your git configuration.
 
 In the [GitHub Setup Guide](https://help.github.com/articles/set-up-git), make sure you setup your `user.name` and `user.email` properly. Your `user.email` should either be:
