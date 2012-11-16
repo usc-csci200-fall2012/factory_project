@@ -80,7 +80,7 @@ In the [GitHub Setup Guide](https://help.github.com/articles/set-up-git), make s
 + The same email you used to sign-up for GitHub; or
 + Add that email to your [Profile Email Settings](https://github.com/settings/emails)
 
-When using [eGit](http://www.eclipse.org/egit/) on [Eclipse](http://www.eclipse.org/), the GitHub [Mac app](http://mac.github.com/) or [Windows app](http://windows.github.com/), you need to make sure that the above is setup properly. The [Git Resource](wiki/Git-Resource.md) page in the [factory project](https://github.com/usc-csci200-fall2012/factory_project) has links to tutorials about that.
+When using [eGit](http://www.eclipse.org/egit/) on [Eclipse](http://www.eclipse.org/), the GitHub [Mac app](http://mac.github.com/) or [Windows app](http://windows.github.com/), you need to make sure that the above is setup properly. The [Git Resource](Git-Resource.md) page in the [factory project](https://github.com/usc-csci200-fall2012/factory_project) has links to tutorials about that.
 
 [GitHub Help](https://help.github.com) has a related question:
 https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user
