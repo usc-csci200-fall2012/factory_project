@@ -5,7 +5,9 @@ The two classes, csci201 and csci200, will cooperate to design and build a manuf
 Please see [The Operation Concepts Description](Operational-Concepts-Description.md)
 
 ##Requirements
-Please see [The Kitting Cell](The-Kitting-Cell.md)
+Please see [The Kitting Cell](The-Kitting-Cell.md).
+
+Also, check the [Non Normative Scenarios for Kitting Cell](The-Kitting-Cell-Non-Normative.md).
 
 ## eXtreme Programming
 You are to use the eXtreme programming methodology. Details of your meetings, schedule and tasks will be maintained online, with specific details to be determined.
