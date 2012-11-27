@@ -3,6 +3,37 @@
 .*.sw[a-z]
 *~
 \#*\#
+*.tmp
+*.bak
+
+# IDE Project & Temporary Files #
+#################################
+# Eclipse #
+.classpath
+.loadpath
+.metadata
+.project
+local.properties
+.settings/
+# NetBeans #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+# Visual Studio #
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug*/
+[Rr]elease/
+# Generic #
+[Bb]in/
+[Bb]uild/
+[Oo]bj
+[Tt]mp/
 
 # Compiled source #
 ###################
@@ -11,7 +42,6 @@
 *.so
 *.pyc
 *.exe
-bin/
 
 # Packages #
 ############
