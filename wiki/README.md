@@ -57,7 +57,7 @@ There will be six deliverables (due dates below):
     <tr>
         <td>12/3, 12/5</td>
         <td>Final Persentation</td>
-        <td></td>
+        <td><a href="Final-Presentation-Schedule.md">Schedule</a></td>
     </tr>
 </table>
 
