@@ -52,6 +52,12 @@ As with almost all technologies, there are two main ways to learn things: a form
 + [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
 + [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
 
+### Tips & Tricks
++ When viewing a repository, you can hit ***"?"*** to bring up the list of available commands.
+  * This works in most GitHub pages, not only in code repositories
+  * Hitting **"t"**, for example, will take your to the file finder
++ Hitting the **blame** button, will take you _ine-by-line/commit-by-commit_ in a file to see who did what and enables you to _blame_ a specific user for a certain code segment 
+
 
 ## Special Git Topics
 ### git ignore files
